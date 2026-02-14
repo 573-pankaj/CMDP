@@ -1,0 +1,5 @@
+# Minimal requirements for PDNAC-NC Algorithm
+# Only the essential dependencies needed to run the code
+
+torch>=2.0.0
+numpy>=1.21.0
